@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.adeng1024.pojo.Person",
+      "sourceType": "com.adeng1024.pojo.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.adeng1024.pojo.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.adeng1024.pojo.Dog",
+      "sourceType": "com.adeng1024.pojo.Person"
+    },
+    {
+      "name": "person.gender",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.adeng1024.pojo.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.adeng1024.pojo.Person"
+    }
+  ],
+  "hints": []
+}
